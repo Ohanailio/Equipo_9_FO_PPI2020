@@ -1,0 +1,15 @@
+
+.profile li {
+    text-align: left;
+}
+
+.profile {
+    margin-top: 100px;
+    width: 80%;
+}
+
+.profile .profileanimal {
+    height: 40%;
+    margin-top: 125px;
+}
+

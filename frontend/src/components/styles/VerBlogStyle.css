@@ -1,0 +1,39 @@
+.notice1 {
+    margin-top: 90px;
+    font-family: 'Comfortaa', sans-serif;
+    text-align: center;
+}
+
+.notice1 h1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.notice1 h2 {
+    font-size: 20px;
+    text-align: left;
+}
+
+.notice1 p{
+    font-size: 16px;
+    text-align: left;
+}
+
+.notice1 li{
+    font-size: 16px;
+    text-align: left;
+}
+
+.notice1 h2 {
+    font-family: 'Comfortaa', sans-serif;
+}
+
+#biblio {
+    margin-top: 88px;
+    font-size: 14px;
+    margin-left: 3px;
+}
+
+.notice1  img {
+    width: 70%;
+}

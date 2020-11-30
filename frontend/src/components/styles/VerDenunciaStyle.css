@@ -1,0 +1,16 @@
+#fieldset2 {
+    margin-left: 30%;
+    margin-top: 6%;
+    text-align: center;
+    width: 40%;
+    font-family: 'Comfortaa', sans-serif;
+}
+
+#legend2 {
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 20px;
+}
+
+#filteradopt{
+    text-align: left;
+}

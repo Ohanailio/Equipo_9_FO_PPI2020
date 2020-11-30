@@ -1,0 +1,112 @@
+#fieldregis {
+    margin-left: 30%;
+    margin-top: 6%;
+    text-align: center;
+    width: 40%;
+    font-family: 'Comfortaa', sans-serif;
+}
+
+#legendregis {
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 20px;
+}
+
+#filteradopt{
+    text-align: left;
+}
+
+#iconos {
+    display: inline;
+    position: absolute;
+    top:32%;
+    left:50%;
+    -ms-transform:translate(-50%,-50%);
+    -webkit-transform:translate(-50%,-50%);
+    transform:translate(-50%,-50%)
+}
+
+#iconos a{
+    color:#fff;
+    background:#000;
+    border-radius:4px;
+    text-align:center;
+    text-decoration:none;
+    font-family:fontawesome;
+    position:relative;
+    display:inline-block;
+    width:35px;
+    height:40px;
+    padding-top:12px;
+    margin:0 2px;
+    -o-transition:all .5s;
+    -webkit-transition:all .5s;
+    -moz-transition:all .5s;
+    transition:all .5s;
+    -webkit-font-smoothing:antialiased
+}
+
+#iconos a:hover{
+    background:#5d5c5c;
+}
+
+#iconos a span{
+    color:black;
+    position:absolute;
+    font-family: 'Comfortaa';
+    bottom:0;
+    left:-25px;
+    right:-25px;
+    padding:5px 7px;
+    z-index:-1;
+    font-size:14px;
+    border-radius:2px;
+    background:#fff;
+    visibility:hidden;
+    opacity:0;
+    -o-transition:all .5s cubic-bezier(0.68,-.55,.265,1.55);
+    -webkit-transition:all .5s cubic-bezier(0.68,-.55,.265,1.55);
+    -moz-transition:all .5s cubic-bezier(0.68,-.55,.265,1.55);
+    transition:all .5s cubic-bezier(0.68,-.55,.265,1.55)
+}
+
+#iconos a span:before{
+    content:'';
+    width:0;
+    height:0;
+    border-left:5px solid transparent;
+    border-right:5px solid transparent;
+    border-top:5px solid #fff;
+    position:absolute;
+    bottom:-5px;
+    left:40px
+}
+
+#iconos a:hover span{
+    bottom:50px;
+    visibility:visible;
+    opacity:1
+}
+
+#iconos a:nth-of-type(1):before{
+    content:'\f09a'
+}
+
+#iconos a:nth-of-type(2):before{
+    content:'\f099'
+}
+
+#iconos a:nth-of-type(3):before{
+    content:'\f0d5'
+}
+
+#iconos a:nth-of-type(4):before{
+    content:'\f113'
+}
+
+#iconos a:nth-of-type(5):before{
+    content:'\f17d'
+}
+
+#iconos a:nth-of-type(6):before{
+    content:'\f1cb'
+}

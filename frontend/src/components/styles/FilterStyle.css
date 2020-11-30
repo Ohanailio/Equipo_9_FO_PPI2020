@@ -1,0 +1,16 @@
+#filter {
+    margin-left: 30%;
+    margin-top: 6%;
+    text-align: center;
+    width: 40%;
+    font-family: 'Comfortaa', sans-serif;
+}
+
+#legendfilter {
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 20px;
+}
+
+#filteradopt{
+    text-align: left;
+}

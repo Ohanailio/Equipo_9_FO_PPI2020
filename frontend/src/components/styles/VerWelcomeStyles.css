@@ -1,0 +1,25 @@
+
+.App-jumbo {
+  margin-top: 100px;
+}
+  
+.Footer {
+  text-align: center;
+}
+
+.containerhacer h1 {
+  text-align: center;
+  margin-top: -20px;
+  font-size: 28px;
+}
+
+.containerhacer {
+  margin-top: 80px;
+  width: 90%;
+  margin-left: 5%;
+  text-align: justify;
+}
+
+.motimis {
+  font-weight: bold;
+}

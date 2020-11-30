@@ -1,0 +1,17 @@
+.nav-link {
+    text-align: center;
+}
+
+#responsive-navbar-nav {
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 15px;
+}
+
+#titulo {
+    font-family: 'Comfortaa', sans-serif;
+}
+
+.App-logo {
+    height: 8vmin;
+    pointer-events: none;
+  }

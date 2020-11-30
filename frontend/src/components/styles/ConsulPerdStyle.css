@@ -1,0 +1,16 @@
+.mascota img{
+    width: 30%;
+    margin-top: 110px;
+    margin-left: 150px;
+    text-align: left;
+}
+
+.infomascota {
+    width: 40%;
+    height: 410px;
+    margin-top: -440px;
+    margin-left: 700px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Comfortaa', sans-serif;
+}

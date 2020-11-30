@@ -1,0 +1,47 @@
+.mascota img{
+    width: 30%;
+    margin-top: 110px;
+    margin-left: 180px;
+    text-align: left;
+}
+
+.infomascota {
+    width: 40%;
+    height: 410px;
+    margin-top: -440px;
+    margin-left: 700px;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Comfortaa', sans-serif;
+}
+
+.Metpago img {
+    margin-top: 10px;
+    margin-left: 30px;
+    text-align: left;
+    
+}
+
+.Metpago .pagos {
+    width: 160px;
+}
+
+.Metpago .pagos2 {
+    width: 100px;
+}
+
+.Metpago .pagos3 {
+    width: 35px;
+}
+
+.Metpago .pagos4 {
+    width: 90px;
+}
+
+.Metpago .pagos5 {
+    width: 100px;
+}
+
+.Metpago .pagos6 {
+    width: 90px;
+}

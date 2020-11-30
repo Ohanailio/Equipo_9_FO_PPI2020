@@ -1,0 +1,50 @@
+.listado1 {
+    background: white;
+    margin-top: 100px;
+    width: 80%;
+    margin-left: 140px;
+}
+
+
+.listado1 h1 {
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 25px;
+}
+
+#filterdon {
+    margin-top: 3%;
+    text-align: center;
+    width: 100%;
+    font-family: 'Comfortaa', sans-serif;
+}
+
+#legendfilter {
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.pagos {
+    width: 200px;
+}
+
+.pagos2 {
+    width: 120px;
+}
+
+.pagos3 {
+    width: 50px;
+}
+
+.pagos4 {
+    width: 120px;
+}
+
+.pagos5 {
+    width: 160px;
+}
+
+.pagos6 {
+    width: 120px;
+}
